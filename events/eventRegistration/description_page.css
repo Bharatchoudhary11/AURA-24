@@ -50,7 +50,7 @@ body {
 
 .event-heading {
   font-family: "strasu", "Poppins", sans-serif;
-  padding: 10rem;
+  padding: 10rem 10rem 0 10rem;
   margin-bottom: 2rem;
   font-size: 5rem;
   font-weight: 700;
@@ -81,7 +81,7 @@ body {
 }
 
 .team-size-details {
-  margin-bottom: 6rem;
+  margin-bottom: 2rem;
   font-size: 2rem;
 }
 
@@ -107,10 +107,10 @@ body {
 .register {
   display: flex;
   text-align: center;
-  width: min-content;
+  width: fit-content;
   margin: auto;
-  margin-top: 4rem;
-  /* padding: 1.5rem 3rem 1.5rem; */
+  margin: 1rem auto 2rem;
+  padding: 1rem 2rem 1rem;
   size: 4rem;
   font-size: 2rem;
   border-radius: 5px;
@@ -235,7 +235,7 @@ body {
     gap: 8rem;
   }
   .team-size-details {
-    margin-bottom: 6rem;
+    margin-bottom: 2rem;
     font-size: 2rem;
   }
   .description-text-heading {
