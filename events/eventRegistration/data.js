@@ -5,7 +5,7 @@ const events = [
     {
       id: 0,
       title: "T SHIRT PAINTING",
-      descriptionUp:"• About the event : Participants have to create an artwork on the T-shirt provided.<br>• Registration fee: 250<br>• Day of event: April 14<br>• No of participants: 2 ( in each team)<br>• Venue:Examination Hall<br>• Time:11.00 – 1.30 pm<br>• Rules<br>• No extra time will be provided.<br>• No theme:open creativity<br>• 1st prize:1000<br>• 2nd prize :700<br>• Basic items will be provided for the event.: T -shirtAcrylic paint, Brushes<br>• Participants can bring the stationery item they need.",
+      descriptionUp:"*About the event : Participants  have to create an artwork on the T-shirt provided.<BR>*Registration fee: 300<BR>*Day of event: April 25th<BR>*No of participants: 2 ( in each team) or even 1 can also participate <BR>*Venue:Examination Hall<BR>*Time:11.00 – 1.30 pm <BR><BR>*Rules <BR>1.No extra time will be provided.<BR>2.No theme:open creativity<BR>3.Exciting cash prizes for 1st and 2nd position <BR>4.Basic items will be provided for the event.: T –Shirt, Acrylic Colours, Brushes  <BR>5.Participants have the freedom of bringing the materials according to their favourable art form they practice<BR>6.Its prerequisite for all the  participants  to follow our instagram page @abhivyakti_acms, @competition.aura.acms and @aura_acms  for Further details<BR>*Managing  Members :  <BR>barsha, Aastha ,Sheetal, Nidhi",
       paragraph: "",
       descriptionDown: "",
     },
@@ -13,40 +13,40 @@ const events = [
     {
       id: 1,
       title: "MANDALA ART",
-      descriptionUp: "• About the event: The participants have to make the art on an A3 drawing sheet of post-car size (14×9 cm).<br>• Date of Event: April 14<br>• Registration fee: 150<br>• Time: 2.30 pm to 4 pm<br>• Venue: Examination Hall<br><br><b>Rules</b><br>Time limit: 1.5 hrs<br>No theme: open creativity<br>Basic items like ball pens, pencil,sharpner , erasers will be provided.<br>No extra time will be given.<br>1st prize: 1000<br>2nd prize: 500",
-      paragraph: "",
+      descriptionUp: "*About the event: The participants have to make the art on an A4 drawing sheet<BR>*Date of Event: April 25th<BR>*Registration fee: 200<BR>*Time: 2.30 pm to 4 pm<BR>*Venue: Examination Hall",
+      paragraph: "*Rules<BR>1.Time limit: 1.5 hrs<BR>2. No theme: open creativity<BR>3.Basic items like Mandala pens, pencil,sharpner , erasers will be provided.<BR>4.No extra time will be given.<BR>5. Exciting cash prizes for 1st and 2nd position <BR>6.Its  prerequisite for all the  participants  to follow our instagram page @abhivyakti_acms, @competition.aura.acms and @aura_acms  for Further details<BR>7.Managaing members:<BR>Srijan , Rahul,Ritika",
       descriptionDown: "",
     },
     // FIND AND PAINT
     {
       id: 2,
       title: "FIND AND PAINT",
-      descriptionUp: "Each and everything around us is Art! <BR>Only thing needed is captivating eyes to capture this beauty!<BR>So keep your cameras ready and capture a moment that you find interesting in the event and portray that particular event on an A3 drawing sheet",
-      paragraph: "",
+      descriptionUp: "*About the event: The participants have to capture a moment( camera) that they find interesting in the event and portray that particular event on an A4 drawing sheet.<BR>*Date of Event: April 26th<BR>*Venue: Examination Hall<BR>* Exciting cash prizes for 1st and 2nd position.<BR>*Registration fee 200<BR>*Time: 2.30pm – 4pm",
+      paragraph: "*Rules <BR>1.Time limit: 1.5 hrs<BR>2.No extra time will be given<BR>3.The moment has to be captured before the event begins and it should be a moment on that day itself ( April 26th)<BR>4.Basic items like pencils, erasers, and sharpeners will be provided for the event.<BR>5.Participants have the freedom of bringing the materials according to their favourable art form they practice or wish to showcase<BR>6.Its prerequisite for all the  participants  to follow our instagram page @abhivyakti_acms, @competition.aura.acms and @aura_acms  for Further details<BR>7.Managing Members:<BR>Anushka ,Sakshi,Yogita",
       descriptionDown: "",
     },
-    // FREE STYLE
+    // YOUR STYLE
     {
       id: 3,
-      title: "FREE STYLE",
-      descriptionUp: "Every soul is a artist and every scene, a sketching.<BR>The spit of an artist just needs your hand , <BR>The colours of your life and the canvas of your life and the canvas of AURA to come alive.",
-      paragraph: "",
+      title: "YOUR STYLE",
+      descriptionUp: "*Date of event: 26th April<BR>*Venue: Examination hall<BR>*Registration fees:200<BR>*Timing:11-1.30 PM<BR>*Time limit 1.5 hr<BR>*No extra time shall be given<BR>*Exciting cash prizes for 1st and 2nd position",
+      paragraph: "*Rules:<BR>1.Participants are free do any form of art they wish to do!<BR>2.Marking and evaluation would be on the basis of creativity, ideas and the explanation about of the art form!<BR>3.Basic items like pencil,eraser, sharpner will be provided <BR>4.Participants have the freedom of bringing the materials according to their favourable art form they practice or showcase<BR>5.Its prerequisite for all the  participants  to follow our instagram page @abhivyakti_acms, @competition.aura.acms and @aura_acms  for Further details<BR>6.Managing members:<BR>Archana, Monika , Aishwarya, Aditya Vishnoi",
       descriptionDown: "",
     },
     // FACE PAINTING
     {
       id: 4,
       title: "FACE PAINTING",
-      descriptionUp: "• Day of event :April 15<br>• Registration fee: 250<br>• Time : 11.00 – 1.30 pm<br>• Venue: examination Hall<br>• Rules<br>• No extra time will be given<br>• Bring a friend along so as to be your canvas!<br>• 1st prize : 1000<br>• 2 nd prize : 700<br>• Basic items like poster colours , brushes will be provided.<br>• Students can bring stationery items if they need.",
-      paragraph: "",
+      descriptionUp: "*Day of event :April 27th<BR>*Registration fee: 200<BR>*Time : 2.30-4  pm<BR>*Venue: examination Hall ",
+      paragraph: "*Rules <BR>1.No extra time will be given <BR>2 Bring a friend along so as to be your canvas!<BR>3. Exciting cash prizes for 1st and 2nd position <BR>4.Participants have the freedom of bringing the materials according to their favourable art form they practice or wish to showcase<BR>5.Its prerequisite for all the  participants  to follow our instagram page  @abhivyakti_acms, @competition.aura.acms and @aura_acms  for Further details<BR>6.Managing People:<BR>Sunny(2021), Sushila, Priya, Muskan",
       descriptionDown: "",
     },
     // POSTER MAKING
     {
       id: 5,
       title: "POSTER MAKING",
-      descriptionUp: "A poster is a window to the world of an artist.",
-      paragraph: "",
+      descriptionUp: "*Date of event: 27th April<BR>*Registration fees: 200<BR>*Venue: Examination Hall<BR>*Timing: 11-1.30 PM",
+      paragraph: "*Rules<BR>1.Time limit 1.5 hr<BR>2.No extra time will be given<BR>3. Exciting cash prizes for 1st and 2nd position <BR>4.Theme for the event will be provided 2 days prior of the event on our official pages  on instagram <BR>5.So its prerequisite for all the  participants  to follow our instagram page @abhivyakti_acms, @competition.aura.acms and @aura_acms  for Further details  <BR>6.Basic stationary items like pencils, eraser, sharpner will be provided<BR>7.Participants have the freedom of bringing the materials according to their favourable art form they practice or wish to showcase<BR>8.Managing members: <BR>Kumari Priyanka , Sachin Dahiya ,Bharti",
       descriptionDown: "",
     },
   ],
@@ -57,8 +57,8 @@ const events = [
     {
       id: 0,
       title: "CLASSICAL / SEMI CLASSICAL & FOLK",
-      descriptionUp: "From the graceful flow of Bharatnatyam to the vibrant rhythm of Kathak; from the exuberance of Bhangra to the mesmerising movements of Garba, witness a celebration of culture and tradition. ",
-      paragraph: "We cannot wait to meet you at AURA’s very own Solo/Duet Classical/Folk/Semi Classical dance competition, where every dancer becomes a storyteller!",
+      descriptionUp: "1. Participation is restricted to medical colleges pan India. <BR>2. All participants must be current students of their respective medical colleges.<BR>3. Participants are requested to adhere to the time limit, which is 3-5 mins.<BR>4. Solo - Only one person allowed per entry. <BR>Duet - Only two people allowed per entry<BR>5. Usage of fire, sparkles, colour and water is prohibited.<BR>6. The required audio files of the tracks must be sent on WhatsApp to the numbers provided at least 2 days prior to the competition. Participants are advised to carry their audio files in their own pen-drive for backup.<BR>7. Participants are requested to carry their own props and costumes.<BR>8. Nothing that would endanger college property should be used. <BR>9. Judges will evaluate performances based on criteria such as creativity, synchronisation (for duet), technique, musicality and overall stage presence. Their decision will be final and binding. <BR>10. Violation of the above rules will lead to immediate disqualification.",
+      paragraph: "",
       descriptionDown: "",
     },
     // WESTERN /FREESTYLE
@@ -154,7 +154,7 @@ const events = [
     {
       id: 0,
       title: "INDIAN SOLO",
-      descriptionUp: "1. Time limit - 2.5 min<BR>2. Karaoke tracks are allowed.They must have a minimum bitrate of 320 kpbs and in mp3 format (to be brought by the participants in a pen drive).<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side.<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
+      descriptionUp: "1. Time limit - 2.5 min  including setup required.<BR>2. Karaoke tracks are allowed.They must have a minimum bitrate of 320 kpbs and in mp3 format (to be sent to undersigned).<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side  (guitar cable, keyboard stand will be provided).<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
       paragraph: "",
       descriptionDown: "",
     },
@@ -162,7 +162,7 @@ const events = [
     {
       id: 1,
       title: "INDIAN DUET",
-      descriptionUp: "1. Time limit - 2.5 min<BR>2. Karaoke tracks are allowed.They must have a minimum bitrate of 320 kpbs and in mp3 format (to be brought by the participants in a pen drive).<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side.<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
+      descriptionUp: "1. Time limit - 3 min<BR>2. No karaoke tracks are allowed.<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side (Guitar cable, keyboard stand will be provided).<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
       paragraph: "",
       descriptionDown: "",
     },
@@ -170,7 +170,7 @@ const events = [
     {
       id: 2,
       title: "WESTERN SOLO",
-      descriptionUp: "1. Time limit - 3.5 min<BR>2. Karaoke tracks are allowed.They must have a minimum bitrate of 320 kpbs and in mp3 format (to be brought by the participants in a pen drive).<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side.<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
+      descriptionUp: "1. Time limit - 2.5 min  including setup required.<BR>2. Karaoke tracks are allowed.They must have a minimum bitrate of 320 kpbs and in mp3 format (to be sent to undersigned).<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side  (guitar cable, keyboard stand will be provided).<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
       paragraph: "",
       descriptionDown: "",
     },
@@ -178,7 +178,7 @@ const events = [
     {
       id: 3,
       title: "WESTERN DUET",
-      descriptionUp: "1. Time limit - 3.5 min<BR>2. Karaoke tracks are allowed.They must have a minimum bitrate of 320 kpbs and in mp3 format (to be brought by the participants in a pen drive).<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side.<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
+      descriptionUp: "1. Time limit - 3 min<BR>2. No karaoke tracks are allowed.<BR>3. There can be a maximum of 2 accompanists which shall be arranged by the participants.<BR>4. Musical instruments for the accompanist will not be provided from our side (Guitar cable, keyboard stand will be provided).<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria<BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
       paragraph: "",
       descriptionDown: "",
     },
@@ -186,7 +186,7 @@ const events = [
     {
       id: 4,
       title: "GROUP SONG",
-      descriptionUp: "",
+      descriptionUp: "1. Time limit- 4min + extra 1 min for stage setup.<BR>2. No karaoke tracks are allowed. <BR>3. Participants maximum 3-8 members allowed including accompanists.<BR>4. Guitar cable, keyboard stand will be provided.<BR>5. Marks will be deducted if the time limit is exceeded.<BR>6. Judging criteria <BR>• Vocal skills<BR>• Creativity<BR>• Crowd engagement",
       paragraph: "",
       descriptionDown: "",
     },
@@ -301,7 +301,7 @@ const events = [
     {
       id: 0,
       title: "FASHION SHOW",
-      descriptionUp: "RULES FOR ENSEMBLE<br><br>1.    Participation is restricted to medical colleges pan India.<br>2.    All participants must be current students of their respective medical colleges.<br>3.    Participants are requested to adhere to the time limit, which is 10 mins.<br>4.    The composition of group must range from 10-15 members including the supporting.<br>5.    Use of fire, sparkles, colour, smoke bombs and water is prohibited.<br>6.    The required audio files of the tracks must be sent on WhatsApp to the numbers      provided at least 2 days prior to the competition. Participants are advised to carry their audio files in their own pen-drive for backup.<br>7.    Participants are requested to carry their own props and costumes.<br>8.    Nothing that would endanger college property should be used.<br>9.    Judges will evaluate performances based on criteria such as attire, presentation, walk, theme and the storyline. Their decision will be final and binding.<br>10.    Each team will be provided a preparation window of 5 minutes for stage setting.<br>11.    Teams are required to avoid excessively revealing clothing and any offensive text or imagery on the outfit.<br>12. Registration fee - Rs750<br>13. Contact - 7009321228(Ritika Bhagat)",
+      descriptionUp: "RULES FOR ENSEMBLE<br><br>1.    Participation is restricted to medical colleges pan India.<br>2.    All participants must be current students of their respective medical colleges.<br>3.    Participants are requested to adhere to the time limit, which is 10 mins.<br>4.    The composition of group must range from 10-15 members including the supporting.<br>5.    Use of fire, sparkles, colour, smoke bombs and water is prohibited.<br>6.    The required audio files of the tracks must be sent on WhatsApp to the numbers      provided at least 2 days prior to the competition. Participants are advised to carry their audio files in their own pen-drive for backup.<br>7.    Participants are requested to carry their own props and costumes.<br>8.    Nothing that would endanger college property should be used.<br>9.    Judges will evaluate performances based on criteria such as attire, presentation, walk, theme and the storyline. Their decision will be final and binding.<br>10.    Each team will be provided a preparation window of 5 minutes for stage setting.<br>11.    Teams are required to avoid excessively revealing clothing and any offensive text or imagery on the outfit.<br>12. Registration fee - Rs1000<br>13. Contact - 7009321228(Ritika Bhagat)",
       paragraph: "",
       descriptionDown: "",
 
@@ -323,8 +323,8 @@ const event_links = [
 
   // dance category id=1
   [
-    ["https://docs.google.com/forms/d/e/1FAIpQLScXTesBulE4HxYmNIy8ODEcZZLDbOr_ENxmR57XiiWpnjX4dg/viewform?usp=sf_link"],
     ["https://docs.google.com/forms/d/e/1FAIpQLSfJA5QGdQGKX1ooiQxgyBHzcEEHvviCn5HZiqB3EOmdHh8Faw/viewform?usp=sf_link"],
+    ["https://docs.google.com/forms/d/e/1FAIpQLScXTesBulE4HxYmNIy8ODEcZZLDbOr_ENxmR57XiiWpnjX4dg/viewform?usp=sf_link"],
     ["https://docs.google.com/forms/d/e/1FAIpQLSeCEKCam7ojXZarFzKu182T62bL5p6xadW-BEcHSZ3D0LPsgw/viewform?usp=sf_link"],
     ["https://docs.google.com/forms/d/e/1FAIpQLSdPWB3qk9DpncbL_VxZic5IUWvzo_ripcz2i2XvPVtGesZVqg/viewform?usp=sf_link"],
   ],
@@ -352,9 +352,9 @@ const event_links = [
 
   // drama category id=4
   [
+    ["https://docs.google.com/forms/d/e/1FAIpQLScYjfplyfgNfAmChtBKpm015bqOzoyZ8VpoRnWQCJlNkH_eJA/viewform?usp=sf_link"],
     ["https://docs.google.com/forms/d/e/1FAIpQLSdlhUt3E1kFBzrfNIvajVMBS3RD4OUx3hwwvlTwDIMADNJMOA/viewform?usp=sf_link"],
     ["https://docs.google.com/forms/d/e/1FAIpQLSdrJguxOmrXIDK6MuTrqHjLdyKSm4lidRQ6xi12CBLKsY4TFQ/viewform?usp=sf_link"],
-    ["https://docs.google.com/forms/d/e/1FAIpQLScYjfplyfgNfAmChtBKpm015bqOzoyZ8VpoRnWQCJlNkH_eJA/viewform?usp=sf_link"]
   ],
 
   // literary category id=5

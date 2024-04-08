@@ -4,7 +4,7 @@ const events = [
     ["T-SHIRT PAINTING", "./images_arts/6.jpg"],
     ["MANDALA ART", "./images_arts/5.jpg"],
     ["FIND AND PAINT", "./images_arts/1.jpg"],
-    ["FREE STYLE", "./images_arts/3.jpg"],
+    ["YOUR STYLE", "./images_arts/3.jpg"],
     ["FACE PAINTING", "./images_arts/2.jpg"],
     ["POSTER MAKING", "./images_arts/4.jpg"],
   ],
@@ -16,7 +16,6 @@ const events = [
     ["WESTERN / <br>FREESTYLE", "./images_dance/4.jpg"],
     ["GROUP DANCE", "./images_dance/1.jpg"],
     ["STREET DANCE", "./images_dance/3.jpg"],
-    // ["DRONE DRAG"],
   ],
 
   // sports category id=2
