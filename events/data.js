@@ -52,7 +52,7 @@ const events = [
     ["HINDI CREATIVE <br>WRITING", "./images_literary/3.jpg"],
     ["ENGLISH CREATIVE <br>WRITING", "./images_literary/2.jpg"],
     ["DEBATE", "./images_literary/1.jpg"],
-    ["POP QUIZ", "./images_literary/4.jpg"],
+    ["GENERAL QUIZ", "./images_literary/4.jpg"],
     ["ANIME QUIZ", "./images_literary/5.jpg"],
     ["JAM", "./images_literary/5.jpg"],
     ["SHARK TANK", "./images_literary/4.jpg"],
