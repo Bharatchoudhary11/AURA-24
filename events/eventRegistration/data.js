@@ -246,7 +246,7 @@ const events = [
       paragraph: "",
       descriptionDown: "",
     },
-    // HINDI CREATIVE WRITING
+    // DEBATE
     {
       id: 2,
       title: "DEBATE",
@@ -254,15 +254,15 @@ const events = [
       paragraph: "",
       descriptionDown: "",
     },
-    // HINDI CREATIVE WRITING
+    // GENERAL QUIZ
     {
       id: 3,
-      title: "POP QUIZ",
+      title: "GENERAL QUIZ",
       descriptionUp: "“Calling all trivia titans and knowledge enthusiasts! Brace yourself for the ultimate test of wit and wisdom in our General Quiz Competition. From history’s mysteries to pop culture phenomena, no topic is off-limits in this brain-bending battle of intellect. Gather your team or fly solo as you navigate through a labyrinth of questions designed to challenge and delight. It’s not just about what you know, but how fast you can think on your feet! Join us for an unforgettable journey through the realms of knowledge and claim your place among the quiz champions. Are you ready to prove your prowess and emerge victorious? Enter now and let the quest for brilliance“",
       paragraph: "",
       descriptionDown: "",
     },
-    // HINDI CREATIVE WRITING
+    // ANIME QUIZ
     {
       id: 4,
       title: "ANIME QUIZ",
@@ -270,7 +270,7 @@ const events = [
       paragraph: "",
       descriptionDown: "",
     },
-    // HINDI CREATIVE WRITING
+    // JAM
     {
       id: 5,
       title: "JAM",
@@ -278,7 +278,7 @@ const events = [
       paragraph: "",
       descriptionDown: "",
     },
-    // HINDI CREATIVE WRITING
+    // SHARK TANK
     {
       id: 6,
       title: "SHARK TANK",
@@ -286,7 +286,7 @@ const events = [
       paragraph: "",
       descriptionDown: "",
     },
-    // HINDI CREATIVE WRITING
+    // OPEN MIC
     {
       id: 7,
       title: "OPEN MIC",
